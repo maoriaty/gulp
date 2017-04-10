@@ -1,0 +1,11 @@
+描述：此工具用于开发后期文件的压缩@Jabin
+
+命令：
+1.gulp	--默认执行css和js的压缩
+2.gulp concat	--执行所有css的压缩合并和所有js的压缩合并
+3.gulp miniHtml	--执行Html的压缩
+4.gulp miniImg	--执行jpg,png和gif格式的图片的压缩
+
+源文件目录：src
+
+输出文件目录：dest
