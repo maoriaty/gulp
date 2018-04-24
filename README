@@ -1,4 +1,4 @@
-描述：此工具用于开发后期css,js,html和img文件的压缩@Jabin
+描述：gulp用于压缩css,js,html和img等文件@Jabin
 
 命令：
 1.gulp	--默认执行css和js的压缩
